@@ -1,0 +1,13 @@
+.color-selection{
+    width: 150px;
+    height: 80px;
+    border: 1px solid black;
+    display: inline-block;
+}
+label{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: small;
+}
